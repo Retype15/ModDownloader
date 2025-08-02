@@ -1,3 +1,4 @@
+#app/ui/dialogs/settings_dialog.py
 from PyQt6.QtWidgets import (QDialog, QVBoxLayout, QFormLayout, QLineEdit, 
                              QPushButton, QDialogButtonBox, QFileDialog, QHBoxLayout)
 from app.core.config_manager import config_manager

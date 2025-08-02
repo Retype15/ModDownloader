@@ -1,3 +1,4 @@
+#app/ui/dialogs/add_game_dialog.py
 from PyQt6.QtWidgets import (QDialog, QVBoxLayout, QFormLayout, QLineEdit,
                              QPushButton, QDialogButtonBox, QFileDialog, QMessageBox)
 

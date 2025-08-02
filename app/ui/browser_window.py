@@ -1,3 +1,4 @@
+#app/ui/browser_window.py
 from PyQt6.QtWidgets import (QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, 
                              QPushButton, QListWidget, QLabel, QSplitter,
                              QToolBar, QMessageBox, QListWidgetItem)

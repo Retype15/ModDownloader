@@ -1,3 +1,4 @@
+#app/ui/dialogs/console_dialog.py
 from PyQt6.QtWidgets import QDialog, QVBoxLayout, QTextEdit, QHBoxLayout, QPushButton
 from PyQt6.QtCore import pyqtSlot
 

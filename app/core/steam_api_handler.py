@@ -1,3 +1,4 @@
+#app/core/steam_api_handler.py
 import requests
 from app.core.config_manager import config_manager
 

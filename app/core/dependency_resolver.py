@@ -1,3 +1,4 @@
+#app/core/dependency_resolver.py
 from PyQt6.QtWidgets import QMessageBox
 from PyQt6.QtGui import QColor
 

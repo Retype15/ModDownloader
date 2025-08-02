@@ -1,3 +1,4 @@
+#app/ui/dialogs/dependency_dialog.py
 from PyQt6.QtWidgets import (QDialog, QVBoxLayout, QLabel, QListWidget, 
                              QDialogButtonBox, QListWidgetItem)
 from PyQt6.QtCore import Qt

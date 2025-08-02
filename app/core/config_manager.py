@@ -1,3 +1,4 @@
+#app/core/config_manager.py
 import configparser
 from pathlib import Path
 

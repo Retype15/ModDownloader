@@ -1,3 +1,4 @@
+#app/core/steam_web_scraper.py
 import requests
 from bs4 import BeautifulSoup
 from PyQt6.QtCore import QObject, pyqtSignal, QRunnable, QThreadPool

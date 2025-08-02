@@ -1,3 +1,4 @@
+#app/ui/web_view/steam_browser.py
 from PyQt6.QtCore import QUrl, QObject
 from PyQt6.QtWebEngineCore import QWebEngineScript
 from PyQt6.QtWebEngineWidgets import QWebEngineView
