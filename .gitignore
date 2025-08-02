@@ -1,0 +1,10 @@
+steamcmd/
+.venv/
+__pycache__/
+gamedata/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.db
+*.log
